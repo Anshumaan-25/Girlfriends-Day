@@ -7,7 +7,7 @@ function HeroSection() {
   return (
     <div
       className="relative w-full min-h-screen bg-cover bg-center bg-no-repeat flex items-center justify-center font-dancing rounded-3xl"
-      style={{ backgroundImage: "url('/bg.jpg')" }} // Make sure the image is in /public
+      style={{ backgroundImage: "url('/Girlfriends-Day/bg.jpg')" }} // Make sure the image is in /public
     >
       {/* Optional overlay to soften the background */}
       <div className="absolute inset-0 bg-white/50 backdrop-blur-[2px] z-0 rounded-3xl" />
