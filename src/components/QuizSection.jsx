@@ -90,7 +90,7 @@ const QuizSection = () => {
 
         {/* 💖 Footer integrated below content */}
         <footer className="mt-16 text-center text-base text-gray-700 italic">
-          Made with too much love & too little sleep — by your almost-boyfriend 💻💕
+          Made with too much love & too little sleep — by your boyfriend 💻💕
         </footer>
       </div>
     </section>
