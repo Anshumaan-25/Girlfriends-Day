@@ -30,7 +30,7 @@ const QuizSection = () => {
     <section
       className="relative w-full py-20 px-4 font-poppins text-gray-800 rounded-3xl"
       style={{
-        backgroundImage: "url('/bg3.png')",
+        backgroundImage: "url('/Girlfriends-Day/bg3.png')",
         backgroundSize: "cover",
         backgroundPosition: "center",
         backgroundRepeat: "no-repeat",

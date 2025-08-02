@@ -2,26 +2,26 @@ import React from "react";
 
 const photos = [
   {
-    src: "/photos/first-day.jpg",
+    src: "/Girlfriends-Day/photos/first-day.jpg",
     caption: "The first day we met (Ngl one of the best day of my life) 💘",
     aspect: "aspect-[9/16]",
     emoji: "💘",
   },
   {
-    src: "/photos/hair.jpg",
+    src: "/Girlfriends-Day/photos/hair.jpg",
     caption: "Hands down one of the cutest picture of us (I love this one) 🥰",
     aspect: "aspect-[9/16]",
     emoji: "🥰",
   },
   {
-    src: "/photos/MyKitten.jpg",
+    src: "/Girlfriends-Day/photos/MyKitten.jpg",
     caption:
       "Dressed up as a cat just to cheer me up (one of the most magical nights I’ve shared with you virtually) 🌙",
     aspect: "aspect-[117/151.8]",
     emoji: "🐱",
   },
   {
-    src: "/photos/fav-pic.jpg",
+    src: "/Girlfriends-Day/photos/fav-pic.jpg",
     caption: "My absolute fav picture of us 🥺💕",
     aspect: "aspect-[871/1064]",
     emoji: "💖",
@@ -33,7 +33,7 @@ function PhotoGallery() {
     <section
       className="relative  py-20 px-4 font-poppins text-white"
       style={{
-        backgroundImage: "url('/bg.png')",
+        backgroundImage: "url('/Girlfriends-Day/bg.png')",
         backgroundSize: "cover",
         backgroundRepeat: "no-repeat",
         backgroundPosition: "top center",
